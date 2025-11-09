@@ -3,7 +3,7 @@ A script to perform network scanning using Nmap. It defines an MCP server with t
 
 Install notes:
 
-- On windows using Claude
+- Windows using Claude
 	- Install Claude: https://www.claude.com/download
 	- Upgrade from free license (required for MCP usage)
 	- Install NMAP: https://nmap.org/download
