@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "stupidsecopsbot": {
+      "command": "python3",
+      "args": [
+        "e:/stupidsecopsbot/stupidsecopsbot.py"
+      ]
+    }
+  }
+}
